@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Abhiraj Shah
 
-I am an aspiring Data Scientist and Python enthusiast currently building real-world AI solutions. I believe in learning by doing and building in public.
+I am an 15 years old aspiring Data Scientist and Python enthusiast currently building real-world AI solutions. I believe in learning by doing and building in public.
 
 ## 🚀 My Focus
 - **Machine Learning:** Building predictive models and data visualization tools.
